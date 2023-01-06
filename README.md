@@ -1,6 +1,7 @@
 # Steps for git workflow: #
 
 Important steps for git workflow:
+
 1. Initialize repository with git init
 2. Create changes to project files
 3. Check status of those file with git status
